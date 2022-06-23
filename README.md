@@ -2,6 +2,7 @@
 Simple project with git/github 
 
 ## Introduction
+Sample introduction content
 
 ## Purpose
 
