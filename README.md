@@ -1,4 +1,5 @@
 # Starter Web Project
+Simple project with git/github 
 
 ## Introduction
 
