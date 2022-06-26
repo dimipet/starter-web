@@ -5,7 +5,9 @@ Simple project with git/github
 Sample introduction content
 
 ## Purpose
+Main purspose is to play around
 
 ## Deployment
+Sample deployment guidelines
 
 ## How to contribute
