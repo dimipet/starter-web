@@ -11,3 +11,6 @@ Main purspose is to play around
 Sample deployment guidelines
 
 ## How to contribute
+
+### Copyright
+2014 Git.Training.
