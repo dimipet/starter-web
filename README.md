@@ -11,6 +11,7 @@ Main purspose is to play around
 Sample deployment guidelines
 
 ## How to contribute
+Please fork this repo and issu request for review
 
 ### Copyright
 2014 Git.Training.
