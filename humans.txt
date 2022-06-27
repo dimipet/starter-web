@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dim Pet dp@dimipet.com @dp-twitter
 
 # THANKS
 
