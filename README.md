@@ -1,5 +1,5 @@
 # Starter Web Project
-Simple project with git/github 
+Simple project with git/github. Adding a line for rebasing example.
 
 ## Introduction
 Sample introduction content
