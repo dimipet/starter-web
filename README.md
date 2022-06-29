@@ -1,5 +1,5 @@
 # Starter Web Project
-Simple project with git/github. Adding a line for rebasing example.
+Simple project with git/github. Adding a line for rebasing example, then more changes from myfeatures branch too.
 
 ## Introduction
 Sample introduction content
